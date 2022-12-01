@@ -1,6 +1,8 @@
 body {
-  background: rgb(226, 226, 66);
-}
+  background: #C7C837;
+
+     }
+     
 h1 {
   border-style: dashed;
   border-color: rgb(0, 0, 0);
@@ -18,6 +20,7 @@ img {
 img:hover {
   animation: shake 0.5s;
   animation-iteration-count: infinite;
+ 
 }
 
 @keyframes shake {
